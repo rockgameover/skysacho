@@ -1,0 +1,38 @@
+p {
+	color: black;
+	background-color: rgb(52, 152, 219);
+	font-size: 14px
+}	
+
+h2{
+	font-size: 2em;
+	font-weight: bolder;
+	font-style: italic;
+	text-decoration: underline;
+
+}
+
+table{
+
+	border-collapse: collapse;
+	border-color: black;
+	margin:50px;
+	margin-left: 400px;
+	padding: 300px;
+	
+}
+td{
+	border: 1px solid;
+
+
+	
+}
+th{
+	border: 1px solid;
+	color: white;
+	background-color: rgb(30, 132, 73);
+
+
+
+}
+
